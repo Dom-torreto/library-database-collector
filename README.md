@@ -30,3 +30,7 @@ python gui.py
 
 ##Screenshots
 
+<img width="1914" height="1017" alt="Image" src="https://github.com/user-attachments/assets/d1318e19-b7fe-4d1e-8ecc-3d7b35cec78b" />
+
+<img width="1918" height="537" alt="Image" src="https://github.com/user-attachments/assets/d431d2c9-39f3-4020-a3e2-cbe7154d1588" />
+
